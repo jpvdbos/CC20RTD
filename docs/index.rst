@@ -14,8 +14,8 @@ Contents:
 
    OVERVIEW
    CHANNELS
-   usage
-   readme
+   APPLICATIONS
+   
 
 
 
