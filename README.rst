@@ -1,41 +1,30 @@
-Template
+CC2.0 RTD Prototype
 ========
 
-$project will solve your problem of where to start with documentation,
-by providing a basic explanation of how to do it easily.
-
-Look how easy it is to use:
-
-    import project
-    # Get your stuff done
-    project.do_stuff()
+First iteration of RTD documentation website for CC2.0 chaptertime
 
 Features
 --------
 
-- Be awesome
-- Make things faster
+- Write documentation as code
+- Use Github for co creation and version control
 
 Installation
 ------------
 
-Install $project by running:
-
-    install project
+Ask Jan-Paul
 
 Contribute
 ----------
 
-- Issue Tracker: github.com/$project/$project/issues
-- Source Code: github.com/$project/$project
+To be filled in. 
 
 Support
 -------
 
-If you are having issues, please let us know.
-We have a mailing list located at: project@google-groups.com
+Google: Read the Docs and start studying. 
 
 License
 -------
 
-The project is licensed under the BSD license.
+To be filled in. 
