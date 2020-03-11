@@ -1,8 +1,8 @@
 ========
-APPLICATIONS
+Applications
 ========
 
-The Contact center 2.0 platform (CC20) contains apps for customers, agents,team leads and planners. We develop and maintain these apps with the squads that make up our CC20 family. We use common Java and Scala technologies and connect to the Twilio cloud platform. Confidential ING data is not stored in the cloud service, allowing you to create secure customer and employee journeys. 
+The Contact Centre 2.0 platform (CC2.0) contains apps for customers, agents,team leads and planners. We develop and maintain these apps with the squads that make up our CC20 family. We use common Java and Scala technologies and connect to the Twilio cloud platform. Confidential ING data is not stored in the cloud service, allowing you to create secure customer and employee journeys. 
 
 In addition to software, we deliver 24*7 support. Because we know that customers must be able to reach the Contact center. Always.  
 
