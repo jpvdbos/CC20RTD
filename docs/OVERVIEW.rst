@@ -10,10 +10,12 @@ Welcome to the documentation pages of the Contact centre 2.0 platform and servic
 **Conversations in 4 channels**
 
 For customers and agents we support four channels. 
+
 #. Voice
 #. Chat
 #. Video
 #. E-mail
+
 Conversations in these channels can be combined. And you may add self-service features as you see fit.
 
 **Powered by a platform!**
