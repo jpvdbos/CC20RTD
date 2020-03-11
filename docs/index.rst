@@ -12,7 +12,10 @@ Contents:
    :maxdepth: 3
    :glob:
 
-   *
+   OVERVIEW
+   CHANNELS
+   usage
+   readme
 
 
 
