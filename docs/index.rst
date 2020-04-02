@@ -8,10 +8,10 @@ CC2.0 Documentation
 ====================
 
 Content:
+
 .. toctree::
    :maxdepth: 3
    :glob:
-
    OVERVIEW
    CHANNELS
    APPLICATIONS
