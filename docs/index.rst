@@ -3,10 +3,15 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to our documentation!
-==================================================
+=========
+Index
+=========
 
-Contents:
+
+CC2.0 Documentation
+=======================
+
+Content:
 
 .. toctree::
    :maxdepth: 3
@@ -16,13 +21,3 @@ Contents:
    CHANNELS
    APPLICATIONS
    
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
